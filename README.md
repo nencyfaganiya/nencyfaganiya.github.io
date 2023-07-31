@@ -1,1 +1,1 @@
-website: https://www.nencyfaganiya.github.io
+website: https://nencyfaganiya.github.io
